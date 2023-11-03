@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Armagan
+## Hi there 👋 I am Armagan
 ### Cloud Wizard of the Middle-Earth & Jedi Knight of Kubernetes
 
 > Once upon a terminal, Armagan set out on a quest to tame the wild clouds. Trained in the arts of mystic wizardry and the ways of a jedi knight, he has harnessed the power of the most formidable spell known to the digital realm: Kubernetes. Guided by his mentor "Memelord", he faced virtual beasts, navigated treacherous IPv4 subnets, and even played a game of Gwent during server downtimes. In tech circles and enchanted forests alike, Armagan's name is revered, the master wizard and jedi knight of the digital frontier.
